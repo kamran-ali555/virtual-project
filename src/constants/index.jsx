@@ -52,7 +52,7 @@ export const testimonials = [
     text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
   },
   {
-    user: "Measum",
+    user: "Amna",
     company: "8bit-Collection",
     image: user6,
     text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
