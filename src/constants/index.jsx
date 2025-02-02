@@ -11,6 +11,7 @@ import user3 from "../assets/profile-pictures/user3.jpg";
 import user4 from "../assets/profile-pictures/user4.jpg";
 import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
+import ecommerces from "../assets/profile-pictures/ecommerces-website.png";
 
 export const navItems = [
   { label: "Features", href: "#" },
@@ -122,6 +123,7 @@ export const checklistItems = [
 
 export const pricingOptions = [
   {
+    bg: "ecommerces",
     title: "Free",
     price: "$0",
     features: [

@@ -49,7 +49,7 @@ const Footer = () => {
           </ul>
         </div>
         <p className="font-poppins font-normal text-center text-[18px] leading-[20px] text-white pt-8">
-        Copyright Ⓒ 2024 <span className="font-normal bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text">ShoaibAkhter</span>. All Rights Reserved.
+        Copyright Ⓒ 2024 <span className="font-normal bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text">KamranAli</span>. All Rights Reserved.
       </p>
       </div>
     </footer>
